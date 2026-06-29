@@ -1,0 +1,201 @@
+client_id,client_name,country,industry,join_date,subscription_plan
+1,"Rodriguez, Figueroa and Sanchez",Burundi,IT,2025-09-08,Basic
+2,"Yang, Gardner and Garza",Antigua and Barbuda,Finance,2023-07-26,Basic
+3,Hall PLC,Anguilla,Marketing,2025-02-28,Basic
+4,"Santos, Gardner and Robinson",Namibia,IT,2024-04-23,Enterprise
+5,Blake and Sons,Qatar,Education,2024-09-29,Basic
+6,Moore-Bernard,Guadeloupe,Education,2023-10-14,Premium
+7,Davis-Abbott,Netherlands,IT,2024-04-08,Basic
+8,Blair PLC,British Virgin Islands,IT,2026-05-25,Basic
+9,Miller-Carter,Niue,Marketing,2025-05-01,Enterprise
+10,Ray-Bush,Aruba,Education,2025-06-17,Basic
+11,Galloway-Wyatt,Tonga,Education,2023-10-12,Basic
+12,Chavez-Flowers,Central African Republic,Education,2024-08-02,Premium
+13,Santiago Ltd,Vietnam,Marketing,2025-07-12,Premium
+14,Lynch and Sons,Martinique,Education,2025-08-31,Premium
+15,Ford LLC,Uzbekistan,IT,2025-05-25,Basic
+16,"Robinson, Nguyen and Tate",Azerbaijan,Healthcare,2024-03-01,Premium
+17,Trujillo Group,Ethiopia,Finance,2023-09-04,Basic
+18,"Walter, Edwards and Rios",Indonesia,Marketing,2026-02-17,Premium
+19,"Ellis, Baker and Wright",Monaco,IT,2025-02-03,Basic
+20,"Richards, Hurst and Ross",Cyprus,Healthcare,2026-06-21,Basic
+21,Hicks Inc,Saudi Arabia,Finance,2023-08-14,Premium
+22,Hernandez and Sons,Somalia,Education,2025-07-08,Premium
+23,"Brown, James and Ferrell",Marshall Islands,IT,2024-03-25,Enterprise
+24,"Valencia, Smith and Le",Pitcairn Islands,Healthcare,2026-02-17,Enterprise
+25,Mack-Peterson,French Polynesia,IT,2024-10-12,Premium
+26,Smith-Bowen,Saint Helena,IT,2024-04-07,Enterprise
+27,"Gill, Romero and Rodriguez",Niue,Finance,2024-05-16,Enterprise
+28,"Romero, Gonzalez and Brooks",Central African Republic,Education,2025-02-04,Premium
+29,"Sellers, George and Burns",Bouvet Island (Bouvetoya),Education,2026-04-07,Basic
+30,Allen-Allen,Montenegro,IT,2026-04-26,Basic
+31,Dennis Inc,Senegal,Marketing,2025-01-27,Premium
+32,Anderson Group,Yemen,IT,2025-02-15,Basic
+33,Rose-Obrien,Croatia,IT,2026-04-07,Premium
+34,"Vaughn, Marquez and Ross",Paraguay,Finance,2025-06-05,Premium
+35,Lam-Hayes,Egypt,Finance,2024-02-25,Basic
+36,Smith-Spencer,Namibia,Finance,2024-02-20,Premium
+37,Zimmerman Inc,Denmark,Marketing,2023-09-05,Enterprise
+38,Heath Inc,Malaysia,Finance,2024-03-10,Enterprise
+39,"Washington, Ryan and Cummings",Turkmenistan,IT,2025-03-10,Enterprise
+40,Sanchez-Kennedy,Ireland,Marketing,2024-01-18,Enterprise
+41,Hopkins LLC,Jamaica,Marketing,2024-09-16,Basic
+42,"Brown, Valdez and Lucas",Bahamas,Healthcare,2024-09-07,Premium
+43,Mcbride-Rodriguez,Congo,Finance,2024-01-18,Enterprise
+44,Taylor-White,Kyrgyz Republic,Education,2024-03-23,Basic
+45,Ramos PLC,Bolivia,Finance,2023-08-18,Basic
+46,"Huff, Novak and House",Thailand,Marketing,2024-03-09,Basic
+47,Tucker-Lewis,Iran,Finance,2026-03-09,Premium
+48,Gray Group,Estonia,Finance,2026-04-04,Basic
+49,Mitchell-Horton,Saint Martin,Marketing,2026-06-18,Enterprise
+50,"Stanley, Tucker and Lee",Cuba,Finance,2026-05-20,Basic
+51,"Fitzgerald, Brown and Edwards",Australia,Healthcare,2025-03-25,Premium
+52,"Calhoun, Schmidt and Brown",Malawi,Healthcare,2023-09-19,Basic
+53,Jones Inc,Peru,Finance,2026-01-23,Basic
+54,Wilson-Zamora,Egypt,Marketing,2025-03-19,Enterprise
+55,Harvey Group,Palestinian Territory,Education,2025-03-24,Enterprise
+56,"Stewart, Green and Santiago",Germany,Finance,2024-03-11,Enterprise
+57,Anderson-Brewer,Kuwait,Education,2024-06-04,Premium
+58,Smith PLC,Mongolia,Education,2026-06-19,Premium
+59,Medina PLC,Estonia,Finance,2023-11-16,Basic
+60,Ibarra-Suarez,Heard Island and McDonald Islands,Marketing,2024-05-01,Enterprise
+61,Bass-Warner,New Zealand,Healthcare,2026-06-06,Basic
+62,"Rice, Contreras and Spencer",Venezuela,IT,2025-06-20,Basic
+63,Baker Inc,Samoa,Marketing,2025-02-19,Enterprise
+64,Campbell-Clark,Guam,Marketing,2024-02-02,Enterprise
+65,"Farrell, Wagner and King",United States of America,Healthcare,2026-01-06,Enterprise
+66,Walters LLC,Aruba,IT,2023-06-27,Premium
+67,Walsh LLC,Central African Republic,Healthcare,2025-09-13,Enterprise
+68,"Thornton, Hoffman and Rodriguez",Western Sahara,Healthcare,2026-02-15,Enterprise
+69,Gardner LLC,Myanmar,Finance,2025-02-18,Enterprise
+70,Anderson-Parker,United Arab Emirates,IT,2026-04-11,Enterprise
+71,Nolan and Sons,Pitcairn Islands,IT,2024-03-23,Enterprise
+72,Gomez PLC,Turks and Caicos Islands,Education,2026-02-06,Premium
+73,"Brady, Frost and Young",Central African Republic,Finance,2026-05-28,Basic
+74,Keith Inc,Christmas Island,Finance,2025-09-08,Premium
+75,Patton-Jenkins,Paraguay,Marketing,2026-01-26,Premium
+76,Adams Ltd,Botswana,IT,2024-08-16,Enterprise
+77,Garrison and Sons,Cook Islands,Finance,2025-12-04,Enterprise
+78,Bailey-Hoover,Tunisia,Marketing,2024-02-28,Enterprise
+79,Keller Group,Greenland,IT,2024-04-24,Enterprise
+80,Rasmussen LLC,Guernsey,Finance,2025-05-27,Enterprise
+81,Frazier-Anthony,Greenland,Education,2026-04-18,Enterprise
+82,Wiley LLC,Christmas Island,Marketing,2025-03-21,Basic
+83,Johnson-Carlson,Guatemala,Finance,2025-08-30,Basic
+84,Graham-Joyce,Brazil,Education,2024-08-19,Enterprise
+85,"Lee, Williams and Graham",Mali,IT,2026-04-03,Enterprise
+86,"Mcdaniel, Bentley and Mclaughlin",Congo,Finance,2024-07-27,Premium
+87,Rush LLC,Nigeria,IT,2024-06-02,Basic
+88,Cortez LLC,Madagascar,Finance,2024-05-27,Premium
+89,Nguyen-Terry,Micronesia,Marketing,2023-11-10,Basic
+90,Ortega-Gray,San Marino,Marketing,2026-03-09,Enterprise
+91,"Carroll, Sullivan and Bass",Gabon,IT,2024-05-03,Basic
+92,Floyd-Lawson,Gibraltar,Healthcare,2024-11-14,Basic
+93,Lowe-Dixon,South Africa,Education,2026-03-07,Basic
+94,"Jackson, Miller and Robertson",North Macedonia,Marketing,2025-05-02,Enterprise
+95,Cardenas and Sons,Peru,Healthcare,2024-05-29,Enterprise
+96,Hernandez Inc,Ecuador,Marketing,2026-06-06,Premium
+97,"Atkinson, Jones and Perry",Norfolk Island,Education,2025-03-15,Enterprise
+98,"Horton, Snyder and Sanchez",Palau,Healthcare,2025-07-16,Basic
+99,Osborne and Sons,Christmas Island,Education,2025-11-21,Enterprise
+100,"Holmes, Williams and Wright",Thailand,Marketing,2023-11-04,Enterprise
+101,Solis Ltd,Marshall Islands,Finance,2026-06-10,Premium
+102,"Stewart, Fischer and Ramos",Suriname,Finance,2025-08-20,Premium
+103,"Simmons, Meadows and Griffin",Cayman Islands,Education,2025-09-16,Premium
+104,Cole-Walton,Tajikistan,IT,2025-05-22,Basic
+105,"Washington, Allen and Gonzales",Rwanda,Marketing,2024-05-02,Basic
+106,Rogers-Orozco,Belgium,Finance,2023-11-22,Basic
+107,Reyes and Sons,Romania,Education,2024-02-13,Enterprise
+108,Russell-Daniels,Israel,Marketing,2023-08-31,Enterprise
+109,Price-Carrillo,Yemen,Marketing,2025-07-25,Basic
+110,"James, Smith and Bell",Sao Tome and Principe,IT,2024-08-24,Enterprise
+111,Medina-Navarro,South Georgia and the South Sandwich Islands,IT,2025-04-15,Basic
+112,Freeman LLC,Jordan,IT,2024-12-07,Basic
+113,Rogers-Shelton,Iraq,Finance,2025-08-25,Basic
+114,Calhoun-Hooper,Martinique,Education,2023-07-23,Basic
+115,Vargas-Alvarado,Belize,Finance,2025-05-28,Enterprise
+116,Camacho and Sons,Australia,Healthcare,2024-04-04,Basic
+117,Lewis-Murphy,Senegal,Education,2026-02-12,Basic
+118,Walton-Decker,El Salvador,Education,2025-12-25,Enterprise
+119,Smith-Ryan,Zambia,Healthcare,2024-07-11,Basic
+120,"Jones, Bernard and Williams",Antarctica (the territory South of 60 deg S),Healthcare,2026-04-29,Premium
+121,Combs PLC,Cape Verde,Marketing,2024-03-11,Basic
+122,Caldwell-Elliott,Cuba,IT,2024-11-14,Enterprise
+123,Wang-Jackson,New Caledonia,Healthcare,2026-05-15,Premium
+124,"Wilson, Weiss and Oconnell",Botswana,Healthcare,2025-03-19,Premium
+125,Johnston-Odonnell,Honduras,Healthcare,2024-08-31,Enterprise
+126,"Gonzalez, Vargas and Rivas",Ecuador,IT,2023-10-13,Enterprise
+127,Jefferson-Burke,British Indian Ocean Territory (Chagos Archipelago),IT,2025-11-12,Basic
+128,"Patton, Reed and Patterson",Heard Island and McDonald Islands,Healthcare,2023-09-07,Enterprise
+129,"Peterson, Atkinson and Short",Botswana,Finance,2024-10-11,Basic
+130,Reid-Poole,Russian Federation,Marketing,2023-12-08,Basic
+131,Gross Ltd,Faroe Islands,Marketing,2025-04-29,Enterprise
+132,"Hampton, Marshall and Petersen",Nauru,Healthcare,2024-04-13,Basic
+133,Rivas Inc,Fiji,Healthcare,2026-02-14,Basic
+134,Christensen PLC,New Zealand,Finance,2025-06-25,Premium
+135,Johnson-Rosales,Cocos (Keeling) Islands,Marketing,2024-12-09,Basic
+136,Salinas-Peterson,Turkmenistan,Healthcare,2025-04-07,Enterprise
+137,Peters-Black,Comoros,IT,2023-09-25,Basic
+138,"Russell, Peters and Allen",Lebanon,Education,2025-05-31,Basic
+139,West-Smith,French Polynesia,IT,2024-02-21,Basic
+140,"Sanchez, Beck and Wood",Micronesia,Marketing,2025-01-25,Premium
+141,Barajas-Pierce,Guinea,Healthcare,2025-08-02,Premium
+142,Parker-Hall,Saint Helena,Marketing,2024-01-21,Premium
+143,Newton Ltd,Colombia,IT,2024-01-19,Basic
+144,"Washington, Hardy and Bray",Malta,Healthcare,2025-04-08,Basic
+145,Wall LLC,Denmark,Healthcare,2024-07-23,Premium
+146,Smith-Ferguson,Falkland Islands (Malvinas),Healthcare,2023-08-12,Premium
+147,Tran Ltd,Western Sahara,Healthcare,2023-11-09,Enterprise
+148,Garcia-Smith,Finland,Education,2024-11-19,Enterprise
+149,Peterson-Sheppard,El Salvador,Healthcare,2026-04-20,Basic
+150,Wilson-Jones,Liechtenstein,Marketing,2023-09-13,Premium
+151,"Parks, Hernandez and Shepherd",Yemen,Marketing,2024-05-22,Basic
+152,Wilson Group,New Caledonia,Education,2025-04-07,Enterprise
+153,"Perez, Mills and Hayes",Kenya,Education,2024-05-14,Basic
+154,"Branch, Torres and Oliver",New Zealand,Finance,2026-05-11,Basic
+155,Meza and Sons,Niue,IT,2024-02-10,Enterprise
+156,"Miller, Allen and Arnold",Cayman Islands,Healthcare,2023-06-26,Enterprise
+157,Norris-Harrison,Antigua and Barbuda,Education,2024-03-03,Basic
+158,"Campbell, Heath and Jones",Djibouti,IT,2026-04-01,Enterprise
+159,"Lawrence, Lara and Gonzalez",Brazil,IT,2025-02-09,Basic
+160,"Hernandez, Baker and Thomas",Bahamas,IT,2023-12-22,Enterprise
+161,Larson-Holloway,Uruguay,IT,2024-05-05,Enterprise
+162,Harrison LLC,Reunion,Marketing,2024-09-07,Premium
+163,Mason-Snyder,Belgium,IT,2025-04-09,Enterprise
+164,Navarro-Munoz,Anguilla,Marketing,2023-10-02,Enterprise
+165,"Huff, Johnston and Sampson",Serbia,Education,2025-06-29,Basic
+166,Johnston-Hines,China,Education,2024-11-20,Basic
+167,"Ramos, Ramirez and Shea",Jordan,Healthcare,2025-05-19,Enterprise
+168,Costa-Harrison,Ireland,Education,2024-06-23,Enterprise
+169,"Garcia, Martin and Jenkins",Lithuania,Education,2024-05-04,Premium
+170,Cervantes-Pierce,Korea,Finance,2023-09-28,Basic
+171,Morris-Cordova,Iraq,Finance,2026-01-26,Basic
+172,Sandoval PLC,Kyrgyz Republic,Finance,2024-09-18,Premium
+173,Stone PLC,Saudi Arabia,Marketing,2024-12-21,Enterprise
+174,Wolf-Harris,Mexico,Finance,2023-11-14,Premium
+175,Kim-Wolfe,British Virgin Islands,Finance,2023-07-25,Basic
+176,"Lynch, Allen and Moore",Micronesia,IT,2023-07-08,Premium
+177,Davis-Gay,United States Minor Outlying Islands,Education,2023-10-26,Enterprise
+178,Holland and Sons,Luxembourg,IT,2026-04-11,Basic
+179,Hicks-Hill,Syrian Arab Republic,Education,2024-12-03,Basic
+180,Sanchez-Arnold,Hungary,Education,2024-01-18,Premium
+181,"Romero, Suarez and Shields",Falkland Islands (Malvinas),Marketing,2025-10-17,Premium
+182,Morgan-French,Ethiopia,IT,2025-12-09,Basic
+183,Barber-Monroe,Mozambique,Finance,2026-06-22,Premium
+184,Grimes-Griffin,Liberia,Marketing,2024-07-06,Premium
+185,"Hines, Bennett and Cantu",Trinidad and Tobago,Education,2024-01-16,Enterprise
+186,"Allen, Reyes and Chase",Isle of Man,Finance,2023-08-10,Enterprise
+187,"Kennedy, Mcintyre and James",Panama,Education,2025-11-08,Basic
+188,"Pollard, Simpson and Johnson",Macao,Education,2026-05-17,Premium
+189,Kane-Sawyer,Kazakhstan,IT,2023-10-11,Basic
+190,Smith-Thomas,Trinidad and Tobago,Finance,2025-06-10,Basic
+191,Jones LLC,Guadeloupe,IT,2025-05-07,Enterprise
+192,Santos-Christian,Timor-Leste,Education,2025-07-02,Basic
+193,"James, Stewart and Higgins",Senegal,Finance,2024-12-09,Premium
+194,"Johnson, Jones and Welch",Uruguay,Education,2024-05-03,Basic
+195,Francis Group,Bolivia,Finance,2025-10-04,Basic
+196,"Brennan, Wallace and Benson",United Kingdom,Finance,2023-07-25,Enterprise
+197,Flynn-Carter,Holy See (Vatican City State),Healthcare,2024-10-08,Premium
+198,Schmidt PLC,Pitcairn Islands,IT,2025-11-08,Basic
+199,Thompson PLC,Trinidad and Tobago,Healthcare,2024-08-16,Premium
+200,"Allen, Durham and Thomas",Kyrgyz Republic,IT,2025-05-23,Basic
